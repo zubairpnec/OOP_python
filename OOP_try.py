@@ -2,7 +2,7 @@
 #class number: 1
 class one: #doesnt take any input, prints a welcome message
     def __init__(self): #constructor
-        pass
+        print('This is constructor of class one')
 
     def greet(self):
         print("\nWelcome to the company")
